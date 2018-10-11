@@ -1,6 +1,6 @@
 AttachWebServiceClient 
 ================================
-大附件上传、下载 WebService客户端（CXF 框架，并开启 MTOM）<br>
+大附件上传、下载 WebService客户端，CXF框架，并开启MTOM，可上传 150M<br>
 <br>
 ## Andy.wang
 
